@@ -1,2 +1,3 @@
-# Simple-Unique-Paths
-Leetcode #62. Unique Paths
+# Задача на Динамическое Программирование: Количество Уникальных Путей
+Аналог задачы на Leetcode под #62. Unique Paths
+
